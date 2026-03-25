@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ぽろりろりんなぼくもぎゃぎゃぎゃぎゃぎゃーん",
+  "base_artist": "神聖かまってちゃん",
+  "createdAt": "2026-03-25T16:39:28.302704Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ぽろりろりんなぼくもぎゃぎゃぎゃぎゃぎゃーん",
+      "artist": "神聖かまってちゃん",
+      "has_synced": true,
+      "path": "select/01_ぽろりろりんなぼくもぎゃぎゃぎゃぎゃぎゃーん_神聖かまってちゃん.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ぽろりろりんなぼくもぎゃぎゃぎゃぎゃぎゃーん",
+      "artist": "神聖かまってちゃん",
+      "has_synced": false,
+      "path": "select/pl_01_ぽろりろりんなぼくもぎゃぎゃぎゃぎゃぎゃーん_神聖かまってちゃん.txt"
+    }
+  ]
+}
